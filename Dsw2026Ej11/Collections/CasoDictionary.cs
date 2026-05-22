@@ -17,7 +17,7 @@ public class CasoDictionary
     {
         return alumnos[legajo];
     }
-    public Dictionary<int, string> ObteneraAlumno()
+    public Dictionary<int, string> RetornarAlumnos()
     {
         return alumnos;
     }     
